@@ -1,2 +1,19 @@
-# VueCounterApp
-A Counter app developed with Vuex, that allows increment, decrement, reset and setValue functions. Redirects to a 404 page handled by wildcard route.
+# counter-app
+
+## Project setup
+```
+npm install
+```
+
+### Compiles and hot-reloads for development
+```
+npm run serve
+```
+
+### Compiles and minifies for production
+```
+npm run build
+```
+
+### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).
