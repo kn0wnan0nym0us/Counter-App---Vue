@@ -6,7 +6,7 @@
     <button @click="decrement">-</button>
     <button @click="reset">Reset</button>
     <input type="number" v-model="value" />
-    <button @click="setValue">Set Value</button>
+    <button @click="setValue(count)">Set Value</button>
   </div>
 </template>
 
