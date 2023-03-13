@@ -49,7 +49,7 @@ button {
   padding: 0.5rem 1rem;
   margin-right: 1rem;
   border-radius: 0.25rem;
-  background-color: #4a5568;
+  background-color: #3e8e41;
   color: #fff;
   border: none;
   cursor: pointer;
