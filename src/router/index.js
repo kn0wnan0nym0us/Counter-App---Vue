@@ -5,14 +5,14 @@ import Home from '../components/Home.vue'
 
 const routes = [
   {
-    path: '/counter',
-    name: 'Counter',
-    component: Counter
-  },
-  {
     path: '/',
     name: 'Home',
     component: Home
+  },
+  {
+    path: '/counter',
+    name: 'Counter',
+    component: Counter
   },
   {
     path: '/:catchAll(.*)',
